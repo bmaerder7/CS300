@@ -1,6 +1,6 @@
 What was the problem you were solving in the projects for this course?
 
-The problem I was asked to solve for these projects was analyze data structures and how well each will apply to the problem present by ABC University. They presented the need for a software to help its computer science advisors access course information for students, loading data from a csv file, requiring featured to print alphanumerically and search a specific course details. 
+The problem I was asked to solve for these projects was analyze data structures and how well each will apply to the problem present by ABC University. They presented the need for a software to help its computer science advisors access course information for students, loading data from a csv file, requiring features to print alphanumerically and search a specific course details. 
 
 How did you approach the problem? Consider why data structures are important to understand.
 
