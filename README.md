@@ -8,7 +8,7 @@ My approach to solving this problem was to first outline the functions and metho
 
 How did you overcome any roadblocks you encountered while going through the activities or project?
 
-
+Like in other projects I have taken on in the past, I always look at it as not only a project but a learning opportunity. There will always be times when you run into compiler errors and warning or your code does not function as you planned. Throughout the past couple years of coding for school projects and assignments, I have learned to not let all these errors get to my head or make me feel inadequate. I now enjoy the process of using outside recources, textbooks, articles, youtube videos, etc, to help aid my learning when I get stuck. The world of sortware enginerering and code is constantly growing with the advancements in technology, and so this learning experience as a programmer will never fully end. Once I get a degree and start a job, there will never be a time where I stop learning even though I will be finished with school.
 
 How has your work on this project expanded your approach to designing software and developing programs?
 
